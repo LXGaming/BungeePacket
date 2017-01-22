@@ -46,11 +46,16 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# Project files
-.gradle
+# Eclipse project
 .settings
-bin
-build
 .classpath
 .project
+
+# Maven project
+target
+
+# Gradle project
+.gradle
+bin
+build
 build.bat
